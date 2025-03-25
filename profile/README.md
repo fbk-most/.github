@@ -2,7 +2,8 @@
 
 Welcome! 🙌
 
-We are a research unit of the [Digital Societies centre](https://digis.fbk.eu) at [Fondazione Bruno Kessler](https://www.fbk.eu) in Trento, Italy.
+We are a research unit of the [Digital Society centre](https://digis.fbk.eu)
+at [Fondazione Bruno Kessler](https://www.fbk.eu) in Trento, Italy.
 
 MoST means Modeling and Simulation of Socio-Technical Systems. We develop
 AI and data-empowered models and simulation techniques for understanding
