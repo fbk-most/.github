@@ -13,6 +13,3 @@ Our principal investigator is [@pistore](https://github.com/pistore).
 
 We use this GitHub organization to collaborate and host the code developed as
 part of our research projects and activities.
-
-Please, use the [issues repository](https://github.com/fbk-most/issues) to
-report issues and suggest improvements to our codebases. Thank you!
